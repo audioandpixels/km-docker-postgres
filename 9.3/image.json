@@ -1,0 +1,10 @@
+{
+  "name": "postgres",
+  "version": "9.3",
+  "description": "Postgres Database",
+  "author": "Jason Cox",
+  "logo": "logo.png",
+  "app": {
+    "webPort": false
+  }
+}
